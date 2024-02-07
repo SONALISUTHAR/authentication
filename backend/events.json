@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "title": "eyessss",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fnature%2F&psig=AOvVaw075OniovCjyv0pcLUueVIN&ust=1707300614679000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDhhce8loQDFQAAAAAdAAAAABAE",
+      "date": "2024-02-15",
+      "description": "scswcwc",
+      "id": "cbeb2390-fda5-4cf7-b1a1-2e3636178de4"
+    },
+    {
+      "title": "javascripttttt",
+      "image": "https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png",
+      "date": "2024-02-22",
+      "description": "wsxqwSXSHGAK;SC; HDCGA;IUDGCI;C SD SDSDSD What is a token in React JS?\nAt a high level, the Token Provider is an endpoint on your server that can perform the following sequence of tasks: Receive information about a user from the front end. Validate that user information against your system. Provide a User-ID corresponding to that user to the server client's token creation method.",
+      "id": "d13a2f77-7f4b-4b29-841e-e9969ed26dde"
+    },
+    {
+      "title": "react js",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/640px-React_Logo_SVG.svg.png",
+      "date": "2024-01-31",
+      "description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.",
+      "id": "8794445e-0125-4255-9a58-bf8ff9154b27"
+    },
+    {
+      "title": "A dummy event",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "date": "2023-02-22",
+      "description": "Join this amazing event and connect with fellow developers.",
+      "id": "e1"
+    }
+  ]
+}
